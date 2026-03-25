@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>料理の基本 - 簡単レシピ集</title>
+    <link>https://richend0913.github.io/ryouri-kihon</link>
+    <description>料理初心者でも作れる簡単レシピ。基本の作り方からアレンジまで、写真付きで丁寧に解説。</description>
+    <language>ja</language>
+    <lastBuildDate>Wed, 25 Mar 2026 00:00:00 +0900</lastBuildDate>
+    <atom:link href="https://richend0913.github.io/ryouri-kihon/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>アジフライの作り方・レシピ【簡単・基本】| 料理の基本</title>
+      <link>https://richend0913.github.io/ryouri-kihon/recipes/aji-fry.html</link>
+      <description>サクサク衣のアジフライの作り方。新鮮なアジに衣をつけてカラッと揚げる、魚料理の定番。タルタルソースやソースでいただきます。</description>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://richend0913.github.io/ryouri-kihon/recipes/aji-fry.html</guid>
+    </item>
+    <item>
+      <title>チャーハンの作り方・レシピ【簡単・基本】| 料理の基本</title>
+      <link>https://richend0913.github.io/ryouri-kihon/recipes/chahan.html</link>
+      <description>パラパラチャーハンの作り方。家庭のコンロでもお店のようなパラパラ食感を実現するコツを紹介。冷ご飯の活用にも最適。</description>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://richend0913.github.io/ryouri-kihon/recipes/chahan.html</guid>
+    </item>
+    <item>
+      <title>茶碗蒸しの作り方・レシピ【簡単・基本】| 料理の基本</title>
+      <link>https://richend0913.github.io/ryouri-kihon/recipes/chawan-mushi.html</link>
+      <description>なめらかプルプルの茶碗蒸しの作り方。蒸し器がなくてもフライパンで作れる簡単な方法を紹介。優しいだしの味わいが上品な一品。</description>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://richend0913.github.io/ryouri-kihon/recipes/chawan-mushi.html</guid>
+    </item>
+    <item>
+      <title>筑前煮の作り方・レシピ【簡単・基本】| 料理の基本</title>
+      <link>https://richend0913.github.io/ryouri-kihon/recipes/chikuzenni.html</link>
+      <description>根菜たっぷりの筑前煮の作り方。鶏肉と根菜類を炒め煮にした、おせち料理にも使われる日本の伝統的な煮物レシピ。</description>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://richend0913.github.io/ryouri-kihon/recipes/chikuzenni.html</guid>
+    </item>
+    <item>
+      <title>コールスローの作り方・レシピ【簡単・基本】| 料理の基本</title>
+      <link>https://richend0913.github.io/ryouri-kihon/recipes/coleslaw.html</link>
+      <description>シャキシャキ食感のコールスローサラダの作り方。キャベツとにんじんを甘酸っぱいドレッシングで和えた、付け合わせの定番。</description>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://richend0913.github.io/ryouri-kihon/recipes/coleslaw.html</guid>
+    </item>
+    <item>
+      <title>コーンスープの作り方・レシピ【簡単・基本】| 料理の基本</title>
+      <link>https://richend0913.github.io/ryouri-kihon/recipes/corn-soup.html</link>
+      <description>クリーミーで優しい味わいのコーンスープの作り方。コーン缶を使って簡単に作れるので、朝食やパンのお供にぴったり。</description>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://richend0913.github.io/ryouri-kihon/recipes/corn-soup.html</guid>
+    </item>
+    <item>
+      <title>カレーライスの作り方・レシピ【簡単・基本】| 料理の基本</title>
+      <link>https://richend0913.github.io/ryouri-kihon/recipes/curry-rice.html</link>
+      <description>日本の国民食カレーライスの基本レシピ。市販のルーを使って誰でも簡単に美味しく作れます。野菜の切り方や炒め方のコツも詳しく解説。</description>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://richend0913.github.io/ryouri-kihon/recipes/curry-rice.html</guid>
+    </item>
+    <item>
+      <title>餃子の作り方・レシピ【簡単・基本】| 料理の基本</title>
+      <link>https://richend0913.github.io/ryouri-kihon/recipes/gyoza.html</link>
+      <description>パリパリ羽根つき餃子の作り方。ジューシーな肉餡の作り方から、きれいなひだの寄せ方、カリカリに焼くコツまで詳しく解説。</description>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://richend0913.github.io/ryouri-kihon/recipes/gyoza.html</guid>
+    </item>
+    <item>
+      <title>牛丼の作り方・レシピ【簡単・基本】| 料理の基本</title>
+      <link>https://richend0913.github.io/ryouri-kihon/recipes/gyudon.html</link>
+      <description>吉野家風のつゆだく牛丼を自宅で再現。牛肉と玉ねぎを甘辛いだし汁で煮込む、日本を代表するファストフードの作り方。</description>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://richend0913.github.io/ryouri-kihon/recipes/gyudon.html</guid>
+    </item>
+    <item>
+      <title>ハンバーグの作り方・レシピ【簡単・基本】| 料理の基本</title>
+      <link>https://richend0913.github.io/ryouri-kihon/recipes/hamburg.html</link>
+      <description>肉汁あふれるジューシーハンバーグの作り方。こねる、成形する、焼くの各工程のコツを詳しく解説。洋食の王道メニュー。</description>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://richend0913.github.io/ryouri-kihon/recipes/hamburg.html</guid>
+    </item>
+    <item>
+      <title>回鍋肉の作り方・レシピ【簡単・基本】| 料理の基本</title>
+      <link>https://richend0913.github.io/ryouri-kihon/recipes/hoikoro.html</link>
+      <description>甜面醤の甘辛い味付けが美味しい回鍋肉（ホイコーロー）の作り方。豚肉とキャベツを強火でサッと炒める中華の定番おかず。</description>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://richend0913.github.io/ryouri-kihon/recipes/hoikoro.html</guid>
+    </item>
+    <item>
+      <title>ホットケーキの作り方・レシピ【簡単・基本】| 料理の基本</title>
+      <link>https://richend0913.github.io/ryouri-kihon/recipes/hotcake.html</link>
+      <description>ふわふわホットケーキの作り方。市販のホットケーキミックスを使って、お店のようなふっくら厚焼きホットケーキを焼くコツを紹介。</description>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://richend0913.github.io/ryouri-kihon/recipes/hotcake.html</guid>
+    </item>
+    <item>
+      <title>かぼちゃの煮物の作り方・レシピ【簡単・基本】| 料理の基本</title>
+      <link>https://richend0913.github.io/ryouri-kihon/recipes/kabocha-nimono.html</link>
+      <description>ホクホクに煮えたかぼちゃの煮物の作り方。甘辛い出汁で煮た定番の和食副菜。煮崩れしないコツを解説。</description>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://richend0913.github.io/ryouri-kihon/recipes/kabocha-nimono.html</guid>
+    </item>
+    <item>
+      <title>豚の角煮の作り方・レシピ【簡単・基本】| 料理の基本</title>
+      <link>https://richend0913.github.io/ryouri-kihon/recipes/kakuni.html</link>
+      <description>トロトロに煮込んだ豚の角煮の作り方。豚バラ肉をじっくり煮込んで、箸で切れるほど柔らかく仕上げる本格レシピ。</description>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://richend0913.github.io/ryouri-kihon/recipes/kakuni.html</guid>
+    </item>
+    <item>
+      <title>唐揚げの作り方・レシピ【簡単・基本】| 料理の基本</title>
+      <link>https://richend0913.github.io/ryouri-kihon/recipes/karaage.html</link>
+      <description>外はカリッ、中はジューシーな鶏の唐揚げの作り方。下味の付け方と二度揚げのコツで、お店顔負けの唐揚げが完成。</description>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://richend0913.github.io/ryouri-kihon/recipes/karaage.html</guid>
+    </item>
+    <item>
+      <title>きんぴらごぼうの作り方・レシピ【簡単・基本】| 料理の基本</title>
+      <link>https://richend0913.github.io/ryouri-kihon/recipes/kinpira.html</link>
+      <description>甘辛味でご飯がすすむきんぴらごぼうの作り方。ごぼうとにんじんをシャキシャキに炒めた和食の定番副菜。お弁当にもぴったり。</description>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://richend0913.github.io/ryouri-kihon/recipes/kinpira.html</guid>
+    </item>
+    <item>
+      <title>コロッケの作り方・レシピ【簡単・基本】| 料理の基本</title>
+      <link>https://richend0913.github.io/ryouri-kihon/recipes/korokke.html</link>
+      <description>サクサク衣のポテトコロッケの作り方。じゃがいもとひき肉の定番コロッケを、衣がはがれずきれいに揚げるコツと一緒に解説。</description>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://richend0913.github.io/ryouri-kihon/recipes/korokke.html</guid>
+    </item>
+    <item>
+      <title>麻婆豆腐の作り方・レシピ【簡単・基本】| 料理の基本</title>
+      <link>https://richend0913.github.io/ryouri-kihon/recipes/mapo-tofu.html</link>
+      <description>本格的な麻婆豆腐の作り方。ひき肉の旨味と豆板醤の辛さが絶妙にマッチする中華の人気メニュー。ご飯にかけても最高。</description>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://richend0913.github.io/ryouri-kihon/recipes/mapo-tofu.html</guid>
+    </item>
+    <item>
+      <title>ミートソースパスタの作り方・レシピ【簡単・基本】| 料理の基本</title>
+      <link>https://richend0913.github.io/ryouri-kihon/recipes/meat-sauce.html</link>
+      <description>濃厚ミートソースパスタの作り方。ひき肉と野菜をじっくり煮込んだ手作りミートソースは、市販品とは段違いの美味しさ。</description>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://richend0913.github.io/ryouri-kihon/recipes/meat-sauce.html</guid>
+    </item>
+    <item>
+      <title>目玉焼きの作り方・レシピ【簡単・基本】| 料理の基本</title>
+      <link>https://richend0913.github.io/ryouri-kihon/recipes/medamayaki.html</link>
+      <description>完璧な目玉焼きの作り方。半熟・固焼きの火加減から、きれいな丸い形に仕上げるコツまで。朝食の定番を極める基本レシピ。</description>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://richend0913.github.io/ryouri-kihon/recipes/medamayaki.html</guid>
+    </item>
+  </channel>
+</rss>
