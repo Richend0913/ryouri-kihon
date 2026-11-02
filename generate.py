@@ -7,6 +7,7 @@ from datetime import datetime
 
 AFFILIATE_TAG = "okuritegift-22"
 ADSENSE_ID = ""  # AdSense removed: not approved (2026-11-02)
+GA_TAG = '<script async src="https://www.googletagmanager.com/gtag/js?id=G-63VB4HT3T2"></script>\n<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag(\'js\',new Date());gtag(\'config\',\'G-63VB4HT3T2\',{page_area:\'ryouri-kihon\'});</script>'
 SITE_NAME = "料理の基本"
 SITE_URL = "https://richend0913.github.io/ryouri-kihon"
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -2026,6 +2027,20 @@ def generate_recipe_html(recipe):
         link = url.format(tag=tag)
         tools_html += f'<a href="{link}" class="affiliate-link" target="_blank" rel="noopener noreferrer nofollow"><span class="af-icon">{icon}</span>{name}</a>\n'
 
+    tool_card_items = ""
+    for name, url, icon in recipe["tools"][:3]:
+        link = url.format(tag=tag)
+        tool_card_items += f'<a href="{link}" class="affiliate-link" target="_blank" rel="nofollow sponsored noopener"><span class="af-icon">{icon}</span>{name}</a>\n'
+    tool_card_html = ""
+    if tool_card_items:
+        tool_card_html = f"""<div class="affiliate-section tool-card">
+    <p style="font-size:0.7rem;color:var(--text-light);margin:0 0 6px;">広告・PR</p>
+    <h2><span class="sec-icon">🧰</span> この料理に使う道具</h2>
+    <div class="affiliate-links">
+      {tool_card_items}
+    </div>
+  </div>"""
+
     related_html = ""
     for rid in recipe.get("related", []):
         rel = get_recipe_by_id(rid)
@@ -2092,6 +2107,7 @@ def generate_recipe_html(recipe):
     html = f"""<!DOCTYPE html>
 <html lang="ja">
 <head>
+{GA_TAG}
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>{recipe['name']}の作り方・レシピ【簡単・基本】| {SITE_NAME}</title>
@@ -2205,6 +2221,7 @@ def generate_recipe_html(recipe):
     </div>
   </div>
 
+  {tool_card_html}
 
 </main>
 
@@ -2305,6 +2322,7 @@ def generate_index_html():
     html = f"""<!DOCTYPE html>
 <html lang="ja">
 <head>
+{GA_TAG}
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>{SITE_NAME} | 初心者でも失敗しない基本のレシピ集</title>
