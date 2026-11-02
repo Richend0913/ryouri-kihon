@@ -6,7 +6,7 @@ import re
 from datetime import datetime
 
 AFFILIATE_TAG = "okuritegift-22"
-ADSENSE_ID = "ca-pub-6327505164684489"
+ADSENSE_ID = ""  # AdSense removed: not approved (2026-11-02)
 SITE_NAME = "料理の基本"
 SITE_URL = "https://richend0913.github.io/ryouri-kihon"
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -2107,7 +2107,6 @@ def generate_recipe_html(recipe):
 <script type="application/ld+json">
 {json.dumps(json_ld, ensure_ascii=False, indent=2)}
 </script>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={ADSENSE_ID}" crossorigin="anonymous"></script>
 </head>
 <body>
 
@@ -2147,11 +2146,6 @@ def generate_recipe_html(recipe):
     </div>
   </div>
 
-  <!-- Ad Unit -->
-  <div class="ad-unit">
-    <ins class="adsbygoogle" style="display:block" data-ad-client="{ADSENSE_ID}" data-ad-slot="1234567890" data-ad-format="auto" data-full-width-responsive="true"></ins>
-    <script>(adsbygoogle = window.adsbygoogle || []).push({{}});</script>
-  </div>
 
   <div class="recipe-section">
     <h2><span class="sec-icon">🥘</span> 材料（{recipe['servings']}）</h2>
@@ -2183,11 +2177,6 @@ def generate_recipe_html(recipe):
     </ul>
   </div>
 
-  <!-- Ad Unit -->
-  <div class="ad-unit">
-    <ins class="adsbygoogle" style="display:block" data-ad-client="{ADSENSE_ID}" data-ad-slot="0987654321" data-ad-format="auto" data-full-width-responsive="true"></ins>
-    <script>(adsbygoogle = window.adsbygoogle || []).push({{}});</script>
-  </div>
 
   <div class="recipe-section">
     <h2><span class="sec-icon">📊</span> 栄養情報（1人分あたり）</h2>
@@ -2216,11 +2205,6 @@ def generate_recipe_html(recipe):
     </div>
   </div>
 
-  <!-- Ad Unit -->
-  <div class="ad-unit">
-    <ins class="adsbygoogle" style="display:block" data-ad-client="{ADSENSE_ID}" data-ad-slot="1122334455" data-ad-format="auto" data-full-width-responsive="true"></ins>
-    <script>(adsbygoogle = window.adsbygoogle || []).push({{}});</script>
-  </div>
 
 </main>
 
@@ -2336,7 +2320,6 @@ def generate_index_html():
 <script type="application/ld+json">
 {json.dumps(json_ld_index, ensure_ascii=False, indent=2)}
 </script>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={ADSENSE_ID}" crossorigin="anonymous"></script>
 </head>
 <body>
 
@@ -2361,24 +2344,14 @@ def generate_index_html():
   <p>初心者でも失敗しない、基本の料理レシピ集。<br>材料・作り方・コツまで丁寧に解説します。<br>今日から料理を始めてみませんか？</p>
 </section>
 
-<!-- Ad Unit -->
 <div class="container">
-  <div class="ad-unit">
-    <ins class="adsbygoogle" style="display:block" data-ad-client="{ADSENSE_ID}" data-ad-slot="5566778899" data-ad-format="auto" data-full-width-responsive="true"></ins>
-    <script>(adsbygoogle = window.adsbygoogle || []).push({{}});</script>
-  </div>
 </div>
 
 <div class="container">
   {categories_html}
 </div>
 
-<!-- Ad Unit -->
 <div class="container">
-  <div class="ad-unit">
-    <ins class="adsbygoogle" style="display:block" data-ad-client="{ADSENSE_ID}" data-ad-slot="6677889900" data-ad-format="auto" data-full-width-responsive="true"></ins>
-    <script>(adsbygoogle = window.adsbygoogle || []).push({{}});</script>
-  </div>
 </div>
 
 <footer class="site-footer">
